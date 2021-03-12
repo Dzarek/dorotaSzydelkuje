@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dorotaSzydelkuje/static/css/main.036bbe93.chunk.css",
-    "main.js": "/dorotaSzydelkuje/static/js/main.62c78ea1.chunk.js",
-    "main.js.map": "/dorotaSzydelkuje/static/js/main.62c78ea1.chunk.js.map",
+    "main.js": "/dorotaSzydelkuje/static/js/main.3f0efa10.chunk.js",
+    "main.js.map": "/dorotaSzydelkuje/static/js/main.3f0efa10.chunk.js.map",
     "runtime-main.js": "/dorotaSzydelkuje/static/js/runtime-main.8a63be84.js",
     "runtime-main.js.map": "/dorotaSzydelkuje/static/js/runtime-main.8a63be84.js.map",
     "static/css/2.b532b5aa.chunk.css": "/dorotaSzydelkuje/static/css/2.b532b5aa.chunk.css",
@@ -43,6 +43,6 @@
     "static/css/2.b532b5aa.chunk.css",
     "static/js/2.93e4c5fb.chunk.js",
     "static/css/main.036bbe93.chunk.css",
-    "static/js/main.62c78ea1.chunk.js"
+    "static/js/main.3f0efa10.chunk.js"
   ]
 }
